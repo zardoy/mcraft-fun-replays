@@ -1,0 +1,22 @@
+fixture: https://bucket.mcraft.fun/Future CITY 4.4-slim.zip - -133 87 309 - 5
+world load time seconds: 7.28
+mesher workers count: 4.00
+mesher process avg ms: 19.18
+mesher process total ms: 26353.28
+mesher process worst ms: 140.64
+chunks full info: Q: 1 121/121/121 chunks (5:19ms/106ss/6969.0s)
+average render time ms: 1.83
+worst render time ms: 29.67
+fps average prediction: 547.28
+fps worst prediction: 33.70
+fps average real: 50 / 120
+fps worst real: 33.00
+backend info report: C: 1 TR: 12 TE: 10 F: 787,545 B: 1,704,145
+fps average main thread: 97.56
+fps worst main thread: 61.00
+memory usage average: 398 MB
+memory usage worst: 535 MB
+gpu info: ANGLE (Apple, ANGLE Metal Renderer: Apple M1 Pro, Unspecified Version)
+hardware concurrency: 10.00
+user agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+client version: v0.1.80 2025-04-09T02 /releases/v0.1.80
